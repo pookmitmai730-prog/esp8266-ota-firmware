@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": "https://raw.githubusercontent.com/pookmitmai730-prog/esp8266-ota-firmware/refs/heads/main/firmware/firmware.bin"
 }
 
